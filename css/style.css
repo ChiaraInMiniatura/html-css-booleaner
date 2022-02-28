@@ -1,3 +1,4 @@
+/* setting */
 *{
   box-sizing: border-box;
   margin: 0;
@@ -7,10 +8,14 @@
   background-image: url(../img/pattern.png);
   background-image: contain;
 }
+
+/* intestazione */
 header img{
   width: 25%;
   padding-top: 75px;
 }
+
+/* titolo */
 .title{
   margin: 25px;
 }
@@ -23,3 +28,16 @@ header p {
 .blue{
   color: blue;
 }
+
+/* main */
+main{
+  margin: 25px;
+}
+.paragrafo{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+ul{
+  padding-left: 15px;
+}
+
