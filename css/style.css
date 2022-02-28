@@ -76,6 +76,9 @@ footer span{
   font-size: large;
   color: white;
 }
+a{
+  text-decoration: none;
+}
 .container{
   display: block;
   height: 180px;
