@@ -1,0 +1,25 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+}
+#intestazione{
+  background-color: #3ddfeb;
+  background-image: url(../img/pattern.png);
+  background-image: contain;
+}
+header img{
+  width: 25%;
+  padding-top: 75px;
+}
+.title{
+  margin: 25px;
+}
+header p {
+  color: grey;
+}
+.data{
+  font-size: 12px;
+}
+.blue{
+  color: blue;
+}
