@@ -50,13 +50,21 @@ ul{
 /* tabella */
 table{
   text-align: left;
+  border-collapse: collapse;
+  border-spacing: 250px;
+  table-layout: fixed;
+}
+.mini-colonna{
+  width: 25%;
 }
 thead{
   background-color: rgb(39, 123, 233);
+  color: white;
 }
 .azzurra{
   background-color: #3ddfeb;
 }
+
 
 /* FOOTER */
 footer{
