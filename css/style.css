@@ -58,4 +58,27 @@ thead{
   background-color: #3ddfeb;
 }
 
+/* FOOTER */
+footer{
+  margin: 25px;
+  line-height: 40px;
+}
+footer span{
+  margin-left: 10px;
+  font-size: large;
+  color: white;
+}
+.container{
+  display: block;
+  height: 180px;
+  width: 230px;
+  margin-bottom: 20px;
+  background: cover;
+}
+.primo{
+  background-image: url(../img/monitor.jpg);
+}
+.secondo{
+  background-image: url(../img/graph.jpg);
+}
 
