@@ -9,6 +9,8 @@
   background-image: contain;
 }
 
+/* HEADER */
+
 /* intestazione */
 header img{
   width: 25%;
@@ -29,7 +31,8 @@ header p {
   color: blue;
 }
 
-/* main */
+/* MAIN */
+
 main{
   margin: 25px;
 }
@@ -37,7 +40,22 @@ main{
   margin-top: 30px;
   margin-bottom: 30px;
 }
+.giallo{
+  background-color: yellow;
+}
 ul{
   padding-left: 15px;
 }
+
+/* tabella */
+table{
+  text-align: left;
+}
+thead{
+  background-color: rgb(39, 123, 233);
+}
+.azzurra{
+  background-color: #3ddfeb;
+}
+
 
